@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Stupa</string>
+    <string name="login">Login</string>
+    <string name="stupa">Stupa</string>
+    <string name="click_here_to_register">Click here to register</string>
+    <string name="registration">Registration</string>
+    <string name="click_here_to_login">Click here to login</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="country">Country</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="name">Name</string>
+    <string name="digits">abcdefghijklmnopqrestuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
