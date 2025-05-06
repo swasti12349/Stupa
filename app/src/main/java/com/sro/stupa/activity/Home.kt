@@ -18,7 +18,7 @@ class Home : AppCompatActivity() {
         binding = ActivityHomeBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
-        // Initialize UI components
+        // Initialize UI component
         initUI()
     }
 
